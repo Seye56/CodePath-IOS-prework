@@ -2,7 +2,7 @@
 
 Submitted by: **Oluwaseye David Awoyemi**
 
-**Background  Changer App** is an app that contains my name, university and future jib prospects with a button. Upon pressing the button,  the background of the app changes.
+**Background  Changer App** is an app that contains my name, university and future job prospects with a button. Upon pressing the button,  the background of the app changes.
 
 Time spent: **1** hours spent in total
 
