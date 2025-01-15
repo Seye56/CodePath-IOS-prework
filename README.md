@@ -43,7 +43,7 @@ I would like to add to the whatapp app idea. Its a great and  innovative app  th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Trying to figure out where everything was. Besidees that  there was nothing too difficult
 
 ## License
 
